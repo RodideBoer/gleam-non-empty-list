@@ -6,8 +6,6 @@
 
 ✨ Non-empty lists in Gleam
 
-> ⚙️ This package supports both the Erlang and JavaScript target!
-
 ## Installation
 
 To add this package to your Gleam project:
